@@ -1,0 +1,8 @@
+node_modules
+public/images/imgcache
+packages
+.idea
+newrelic_agent.log
+#./profiler.js
+scripts
+newrelic.js
